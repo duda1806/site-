@@ -1,3 +1,18 @@
-body[background-color: #424E61]
-
-
+*{
+    margin: 0;
+    padding: 0;
+}
+.imagem-1{
+    width:75% ;
+}
+.cabecario{
+    display: flex;
+   justify-content: space-around;
+   padding: 27px 0;
+  
+}
+.cabecario-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 25px;
+}
